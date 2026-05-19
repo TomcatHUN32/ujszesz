@@ -1,0 +1,29 @@
+9:44:31 PM [vite] (client) Re-optimizing dependencies because vite config has changed
+
+  ROLLDOWN-VITE v7.3.1  ready in 1008 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://10.0.121.248:5173/
+9:45:34 PM [vite] (client) page reload src/pages/NotFound.tsx
+9:46:39 PM [vite] (client) page reload src/pages/AdminDashboard.tsx
+9:46:48 PM [vite] (client) page reload src/pages/AdminDashboard.tsx
+9:46:48 PM [vite] (client) page reload src/pages/AdminDashboard.tsx
+9:46:49 PM [vite] (client) page reload src/pages/AdminDashboard.tsx
+9:47:06 PM [vite] (client) page reload src/pages/AdminDashboard.tsx
+9:49:09 PM [vite] (client) page reload src/pages/CourierApp.tsx
+9:49:27 PM [vite] (client) page reload src/pages/CourierApp.tsx
+9:49:32 PM [vite] (client) page reload src/services/api.ts
+9:49:38 PM [vite] (client) page reload src/pages/CourierApp.tsx
+9:49:46 PM [vite] (client) page reload src/pages/CourierApp.tsx
+9:49:51 PM [vite] (client) page reload src/pages/CourierApp.tsx
+9:50:02 PM [vite] (client) hmr update /src/index.css
+9:50:24 PM [vite] (client) page reload src/pages/AdminDashboard.tsx
+9:57:27 PM [vite] vite.config.ts changed, restarting server...
+9:57:27 PM [vite] (client) Re-optimizing dependencies because vite config has changed
+9:57:27 PM [vite] server restarted.
+11:23:44 PM [vite] vite.config.ts changed, restarting server...
+[API Plugin] MongoDB csatlakozva
+[API Plugin] Socket.io inicializálva
+[API Plugin] API route-ok aktívak: /api/*
+11:23:46 PM [vite] (client) Re-optimizing dependencies because lockfile has changed
+11:23:46 PM [vite] server restarted.
